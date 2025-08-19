@@ -20,31 +20,6 @@ I am a passionate Lead Automation QA with 9.5+ years of experience designing and
 - **Skills:** Automation frameworks (BDD, POM, Hybrid), API & Performance Testing, DevOps, Data Engineering, AI-powered test case generation
 - **Certifications:** ISTQB Foundation, AWS Cloud Practitioner, NCFM Financial Markets
 
----
-
-## 🏆 Career Highlights
-
-- **Lead Quality Engineer @ Iris Software (MKTX Trading Platform)**
-  - Architected GenAI-powered test data engines and FIX message synthesizers for high-frequency trading scenarios.
-  - Led scalable automation using Ranorex/Playwright, integrating OpenAI GPT-4 for realistic test simulations.
-  - Defined automation standards, coached teams on Git-based workflows, and Jenkins pipeline best practices.
-
-- **Senior Automation Engineer @ Iris Software**
-  - Managed 2,000+ Ranorex scripts, optimized parallel execution, and achieved 95%+ regression coverage.
-  - Integrated GenAI for CI diagnostics and flakiness triage.
-  - Championed Agile ceremonies and code quality initiatives.
-
-- **Automation Specialist @ Leapwork**
-  - Delivered solutions across global grid/cloud platforms.
-  - Built reusable automation components and trained over 100 users worldwide.
-  - Advanced API, BDD, and performance testing for enterprise clients.
-
-- **Quality Engineer @ Adobe (via DIN Engg) & Nevino/360 Logica**
-  - End-to-end testing for Adobe Flash Player and insurance/hospitality platforms.
-  - Led ETL test initiatives and accelerated bug triage through automation.
-
----
-
 ## 🧠 Technical Stack
 
 **Languages:** C#, Typescript, Java, JavaScript, Python  
